@@ -1,0 +1,13 @@
+# Cache generado por el programa
+cache/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entorno virtual
+.venv/
