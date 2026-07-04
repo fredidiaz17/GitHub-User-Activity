@@ -134,4 +134,4 @@ This is a **personal project with no defined license**.
 
 ---
 
-[Next Project (N/A)]()
+[Next Project (Project #3 - Expense-Tracker)](https://github.com/fredidiaz17/Expense-Tracker)
